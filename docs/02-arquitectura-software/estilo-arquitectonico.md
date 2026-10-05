@@ -166,4 +166,4 @@ Envio["🚚 Sistema externo<br/>Servicio de envíos<br/>API del courier"]
 3. La comunicación entre módulos se realiza llamando a sus servicios.
 4. Todo el sistema funciona como un único proceso Node.js con una única base de datos.
 
-![Arquitectura del Marketplace](./images/arquitectura-marketplace.png)
+![Arquitectura del Marketplace](/img/arquitectura-marketplace.png)

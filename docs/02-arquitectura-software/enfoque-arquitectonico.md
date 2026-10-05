@@ -198,4 +198,4 @@ Tokens -.-> NotificadorImpl
 3. Los adaptadores implementan contratos definidos en el dominio.
 4. Cambiar de tecnología implica modificar la infraestructura o `app.config.ts`, no el dominio.
 
-![Diagrama de Clean Architecture](../images/enfoque-arquitectonico.png)
+![Diagrama de Clean Architecture](/img/enfoque-arquitectonico.png)
